@@ -1,1 +1,1 @@
-# generate_STAIK_token
+# STAIK Token Smart Contract
